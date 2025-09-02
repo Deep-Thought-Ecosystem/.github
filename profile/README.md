@@ -18,7 +18,7 @@ Here you will find:
 
 ## 🔹 Ecosystem Repositories  
 
-- [`deepthought-asmin-ui`](https://github.com/Deep-Thought-Ecosystem/deepthought-admin-ui) → admin database UI repository   
+- [`deepthought-admin-ui`](https://github.com/Deep-Thought-Ecosystem/deepthought-admin-ui) → admin database UI repository   
 - [`deepthought-webapi`](https://github.com/Deep-Thought-Ecosystem/deepthought-webapi) → ASP.NET Core Web API  
 - [`deepthought-blazor`](https://github.com/Deep-Thought-Ecosystem/deepthought-blazor) → Blazor web interface  
 - [`deepthought-react`](https://github.com/Deep-Thought-Ecosystem/deepthought-react) → React web interface  
