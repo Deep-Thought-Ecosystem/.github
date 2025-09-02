@@ -18,12 +18,12 @@ Here you will find:
 
 ## 🔹 Ecosystem Repositories  
 
-- [`deepthought-db`](https://github.com/Deep-Thought-Ecosystem/deepthought-admin-ui) → admin database UI repository   
-- [`deepthought-api`](https://github.com/Deep-Thought-Ecosystem/deepthought-webapi) → ASP.NET Core Web API  
-- [`deepthought-web-blazor`](https://github.com/Deep-Thought-Ecosystem/deepthought-blazor) → Blazor web interface  
-- [`deepthought-web-react`](https://github.com/Deep-Thought-Ecosystem/deepthought-react) → React web interface  
-- [`deepthought-app-android`](https://github.com/Deep-Thought-Ecosystem/deepthought-android) → Android app (Kotlin)  
-- [`deepthought-app-ios`](https://github.com/Deep-Thought-Ecosystem/deepthought-ios) → iOS app (Swift)  
+- [`deepthought-asmin-ui`](https://github.com/Deep-Thought-Ecosystem/deepthought-admin-ui) → admin database UI repository   
+- [`deepthought-webapi`](https://github.com/Deep-Thought-Ecosystem/deepthought-webapi) → ASP.NET Core Web API  
+- [`deepthought-blazor`](https://github.com/Deep-Thought-Ecosystem/deepthought-blazor) → Blazor web interface  
+- [`deepthought-react`](https://github.com/Deep-Thought-Ecosystem/deepthought-react) → React web interface  
+- [`deepthought-android`](https://github.com/Deep-Thought-Ecosystem/deepthought-android) → Android app (Kotlin)  
+- [`deepthought-ios`](https://github.com/Deep-Thought-Ecosystem/deepthought-ios) → iOS app (Swift)  
 
 ---
 
