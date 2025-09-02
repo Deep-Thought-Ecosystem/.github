@@ -20,11 +20,10 @@ Here you will find:
 
 - [`deepthought-db`](https://github.com/deepthoughecosystem/deepthought-db) → database schema & migrations  
 - [`deepthought-api`](https://github.com/deepthoughecosystem/deepthought-api) → ASP.NET Core Web API  
-- [`deepthought-web-blazor`](https://github.com/deepthoughecosystem/deepthought-web-blazor) → Blazor web interface  
-- [`deepthought-web-react`](https://github.com/deepthoughecosystem/deepthought-web-react) → React web interface  
-- [`deepthought-web-angular`](https://github.com/deepthoughecosystem/deepthought-web-angular) → Angular web interface  
-- [`deepthought-app-android`](https://github.com/deepthoughecosystem/deepthought-app-android) → Android app (Kotlin)  
-- [`deepthought-app-ios`](https://github.com/deepthoughecosystem/deepthought-app-ios) → iOS app (Swift)  
+- [`deepthought-web-blazor`](https://github.com/deepthoughecosystem/deepthought-blazor) → Blazor web interface  
+- [`deepthought-web-react`](https://github.com/deepthoughecosystem/deepthought-react) → React web interface  
+- [`deepthought-app-android`](https://github.com/deepthoughecosystem/deepthought-android) → Android app (Kotlin)  
+- [`deepthought-app-ios`](https://github.com/deepthoughecosystem/deepthought-ios) → iOS app (Swift)  
 
 ---
 
