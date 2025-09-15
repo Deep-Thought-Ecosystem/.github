@@ -3,6 +3,12 @@
 Welcome to the **documentation hub** of the **Deep Thought Ecosystem** —  
 *an ecosystem of independent projects: the answer to building applications, the universe, and everything.*  
 
+This project is a personal attempt to build a complete web API–based solution featuring authentication and authorization using JWT, support for multiple user interfaces, and integration of various technologies.
+
+It follows modern development patterns such as Dependency Injection (DI) and CI/CD pipelines, serving both as a showcase and a learning experience.
+
+You are welcome to use this code as inspiration or as a starting point for your own project, especially if you are at the beginning of your career, to better understand how these practices are essential for professional software development.
+
 ---
 
 ## 🔹 About  
